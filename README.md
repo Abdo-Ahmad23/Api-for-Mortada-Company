@@ -2,7 +2,7 @@
  - register
  - login
  - logout
- - make an appointment
+ - make appointments
 
 ## Admin
  - login
